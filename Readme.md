@@ -1,0 +1,1 @@
+- [Image Processor CLI](./image-processor-cli) — load, grayscale, and save images using OpenCV

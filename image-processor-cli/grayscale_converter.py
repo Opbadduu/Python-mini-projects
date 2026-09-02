@@ -32,7 +32,7 @@ else:
         print("success" if success else "error")
         
     elif choice_2 == 'no':
-      print("exiting: ..., here is your image :") 
+      print("exiting: thank you for using this program.") 
       
     else:
         print("kindly select 'yes' or 'no' properly, thank u.")
