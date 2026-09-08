@@ -1,1 +1,2 @@
 - [Image Processor CLI](./image-processor-cli) — load, grayscale, and save images using OpenCV
+- [Rock Paper Scissors](./rock-paper-scissors) — simple CLI game to play rock-paper-scissors against the computer
